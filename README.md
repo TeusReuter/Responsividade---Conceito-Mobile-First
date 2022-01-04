@@ -1,2 +1,1 @@
-# projeto-apeperia
-Arquivos do projeto para a Apeperia
+Css responsivo desenvolvido com o conceito de mobile first, adaptado para tablets e desktops
